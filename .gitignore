@@ -7,4 +7,4 @@
 /dist/
 /htmlcov/
 __pycache__/
-/user-py*/
+/.pyuser/

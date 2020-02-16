@@ -5,7 +5,7 @@ python2.6 --version || {
     return 1
 }
 
-export PYTHONUSERBASE=$PWD/user-py2.6
+export PYTHONUSERBASE=$PWD/.pyuser/py2.6
 PATH=$PYTHONUSERBASE/bin:$PATH
 
 alias python='python2.6'
